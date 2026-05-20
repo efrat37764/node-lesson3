@@ -1,3 +1,1 @@
-Name: Dani, 
-        Age: 25, 
-        Salary: 10000
+Name: Avraham, Age: 45, Salary: 15000

@@ -1,6 +1,2 @@
-{
-  "name": "Dani",
-  "age": 25,
-  "salary": 10000
-}
+Name: Dani, Age: 25, Salary: 10000
 evaluation: 95
