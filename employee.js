@@ -8,6 +8,10 @@ class Employee {
         this.age = age
         this.salary = salary
     }
+
+    toString() {
+        return `Name: ${this.name}, Age: ${this.age}, Salary: ${this.salary}`;
+    }
 }
 
 module.exports = Employee;

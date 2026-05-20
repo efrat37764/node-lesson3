@@ -1,5 +1,3 @@
-{
-  "name": "Avraham",
-  "age": 45,
-  "salary": 15000
-}
+Name: Dani, 
+        Age: 25, 
+        Salary: 10000

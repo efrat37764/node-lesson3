@@ -3,3 +3,4 @@
   "age": 25,
   "salary": 10000
 }
+evaluation: 95
